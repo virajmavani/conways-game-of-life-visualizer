@@ -4,4 +4,4 @@
 
 Fun side project! 
 
-Check it out here: game-of-life.virajmavani.com
+Check it out here: [game-of-life.virajmavani.com](game-of-life.virajmavani.com)
